@@ -35,7 +35,7 @@ checks = [
     {'key':"quickly accraute fluctua histor sensitive actual smooth lag short long noise","rows":[7,8,17,18],"method":"keywordsAny"}
 ]
 
-tmpmakr = 'C:\\Users\\dieze\\OneDrive - Brock University\\TA\\1P97\\2021w\\assignment\\Assignment2 Mark Template.xlsx'
+tmpmakr = 'Assignment2 Mark Template.xlsx'
 
 def findkey(sht, check):
     key = check['key']
